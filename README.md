@@ -29,6 +29,9 @@
 🌱 “He who has a why to live can bear almost any how.”
 — Friedrich Nietzsche
 </p>
+
+![tryhackme stats](https://raw.githubusercontent.com/ACRUX/ACRUX/master/assets/thm_propic.png)
+
 </div>
 <h1></h1>
 
