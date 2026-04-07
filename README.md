@@ -10,6 +10,10 @@
   />
 </div>
 
+<p align="center">
+🌱 Soy una persona interesada en la ciberseguridad y la programación. Me gusta aprender cómo funcionan los sistemas, leer sobre tecnología y poner en práctica lo que voy aprendiendo mediante proyectos. Actualmente estoy enfocado en mejorar mis habilidades poco a poco y seguir creciendo en este mundo.
+</p>
+
 <h4 align="center">⚙ Stack</h4>
 
 <p align="center">
@@ -44,8 +48,8 @@
 
 <div align="center">
   <img 
-    src="https://i.pinimg.com/1200x/dc/fd/cf/dcfdcf67e6272d5a77e65955659d3ead.jpg" 
-    width="600"
+    src="https://i.pinimg.com/originals/58/70/72/587072da657dcee567164c2ff718e08e.gif" 
+    width="500"
   />
 </div>
 
