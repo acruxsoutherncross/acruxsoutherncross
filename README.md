@@ -3,10 +3,12 @@
 
 <h4 align="center">💻 Programmer and Pentester</h4>
 
+<div align="center">
 <img 
     src="https://i.pinimg.com/1200x/dc/fd/cf/dcfdcf67e6272d5a77e65955659d3ead.jpg" 
     width="600"
   />
+</div>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
