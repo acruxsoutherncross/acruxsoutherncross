@@ -30,7 +30,7 @@
 — Friedrich Nietzsche
 </p>
 
-![tryhackme stats](https://raw.githubusercontent.com/ACRUX/ACRUX/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/ACRUX/ACRUX/assets/thm_propic.png)
 
 </div>
 <h1></h1>
