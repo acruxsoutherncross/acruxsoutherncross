@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm WAYN3 </h1>
+<h1 align="center">👋 Hi, I'm ACRUX </h1>
 
 
 <h4 align="center">💻 Programmer and Pentester</h4>
