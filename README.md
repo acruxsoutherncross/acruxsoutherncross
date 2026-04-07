@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm WAYN3 </h1>
 
 
-<h4 align="center">💻 Programming and Pentesting</h4>
+<h4 align="center">💻 Programmer and Pentester</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
