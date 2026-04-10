@@ -13,7 +13,9 @@
 <h4 align="center">💻 About Me</h4>
 
 <p align="center">
-🌱 I'm interested in cybersecurity and programming. I enjoy learning how systems work, reading about technology, and putting what I learn into practice through projects. I'm currently focused on gradually improving my skills and continuing to grow in this field.
+🌱 I'm interested in <strong>CYBERSECURITY</strong> and <strong>PROGRAMMING</strong>. 
+I enjoy learning how systems work, reading about technology, and putting what I learn into practice through projects. 
+I'm currently focused on gradually improving my skills and continuing to grow in this field.
 </p>
 
 <h4 align="center">⚙ Stack & Software</h4>
