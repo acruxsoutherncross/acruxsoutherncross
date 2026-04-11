@@ -20,15 +20,12 @@ I'm currently focused on gradually improving my skills and continuing to grow in
 
 <div align="center">
 
-  <h4>⚙️ Tecnologías y Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,flask,nginx,bash,mysql,git,docker">
+  <h4>⚙️ Tecnologías</h4>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,bash,java,mysql">
   
   <h4>🧰 Herramientas</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github,obsidian,vim">
-  <img src="/images/vmware.png" height="48">
-  <img src="/images/wsl.png" height="48">
-  <img src="/images/burp.png" height="48">
-  <img src="/images/tmux.png" height="48">
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github,git,obsidian,vim,docker">
+
 
 </div>
 
