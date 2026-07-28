@@ -20,10 +20,10 @@ I'm currently focused on gradually improving my skills and continuing to grow in
 
 <div align="center">
 
-  <h4>⚙️ Tecnologías</h4>
+  <h4>⚙️ Stack</h4>
   <img src="https://skillicons.dev/icons?i=js,html,css,python,bash,java,cpp,mysql">
   
-  <h4>🧰 Herramientas</h4>
+  <h4>🧰 Tools</h4>
   <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github,git,obsidian,vim,docker">
 
 
